@@ -59,6 +59,10 @@
     }
     div#formulario > p {
         font-size: 0.8em;
+        margin: 20px;;
+    }
+    form > input[type=submit] {
+        
     }
         
 
